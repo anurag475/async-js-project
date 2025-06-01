@@ -1,0 +1,1 @@
+Simply enter a GitHub username and it fetches the profile details like name, avatar, bio, and repo count — all styled with clean, responsive CSS UI.Using fetch() and Promises, I ensured the app stays responsive while pulling data from GitHub’s API — and that’s the core of smooth frontend UX!
